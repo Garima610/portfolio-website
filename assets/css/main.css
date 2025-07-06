@@ -586,6 +586,8 @@ section,
 .hero p {
   margin: 5px 0 0 0;
   font-size: 26px;
+   position: relative;
+  bottom: 45px;
 }
 
 .hero p span {
