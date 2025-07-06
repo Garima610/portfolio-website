@@ -576,7 +576,7 @@ section,
 }
 
 .hero h2 {
-  margin: 0;
+  margin: 5px 0;
   font-size: 64px;
   font-weight: 700;
 }
